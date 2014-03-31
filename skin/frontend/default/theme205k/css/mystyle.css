@@ -9,6 +9,11 @@ margin: 5px 0px 0px 0px;
 }
 .timerdate span 
 {
-margin: 0px 30px 30px 0px !important;
+margin: 0px 30px 0px 0px !important;
+float: left;
+}
+.products-grid .timerdate span 
+{
+margin: 0px 15px 0px 0px !important;
 float: left;
 }
