@@ -1,3 +1,14 @@
-.timer-view {
+.timer-view 
+{
 margin: 15px 0px 15px 0px;
+font-size: 28px !important;
+}
+.timer-grid 
+{
+margin: 5px 0px 0px 0px;
+}
+.timerdate span 
+{
+margin: 0px 30px 30px 0px !important;
+float: left;
 }
